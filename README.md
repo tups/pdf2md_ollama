@@ -62,4 +62,11 @@ python src/pdf2md_poppler.py
 - Converts to clean, structured Markdown
 - Works offline with local models
 
+---
 
+## Convert pdf to image
+
+```bash
+pip install pdf2image
+brew install poppler    # or in Linux: sudo apt install poppler-utils
+```
