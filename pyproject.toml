@@ -1,0 +1,9 @@
+[project]
+name = "pdf2md-llm"
+version = "0.1.0"
+description = "Convert PDFs to Markdown with Local LLMs"
+dependencies = [
+  "pymupdf",
+  "pillow",
+  "ollama"
+]
