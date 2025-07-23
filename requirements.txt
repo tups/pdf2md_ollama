@@ -1,3 +1,5 @@
 pymupdf
 pillow
 ollama
+requests
+pdf2image
